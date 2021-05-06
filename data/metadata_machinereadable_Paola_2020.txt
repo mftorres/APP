@@ -1,0 +1,124 @@
+plate	Rapid_Genomics_Identification	Plate	Column Sort	Silica number	Species	Collector and Number	Final Concentration (ng/ul)	Nanodrop (260/280)
+1	GOT_130404_P001_WA01	A1	1	3174	Acoelorrhaphe wrightii	H. Balslev 8156	50	1.76
+1	GOT_130404_P001_WA02	A2	9	1156	Aiphanes bicornis	J. West s.n.	50	1.82
+1	GOT_130404_P001_WA03	A3	17	261	Aiphanes chiribogensis	F. Borchsenius 652	50	1.80
+1	GOT_130404_P001_WA04	A4	25	3563	Aiphanes deltoidea	L.A. Nuñez s.n.	50	1.84
+1	GOT_130404_P001_WA05	A5	33	397	Aiphanes duquei	R. Bernal 2852	50	1.78
+1	GOT_130404_P001_WA06	A6	41	1072	Aiphanes eggersii	J.C.Pintaud 1476	50	1.80
+1	GOT_130404_P001_WA07	A7	49	3155	Aiphanes graminifolia	R.Bernal 4825	50	1.96
+1	GOT_130404_P001_WA08	A8	57	259	Aiphanes grandis	F. Borchsenius 648	50	1.75
+1	GOT_130404_P001_WA09	A9	65	258	Aiphanes verrucosa	F. Borchsenius 641	50	1.68
+1	GOT_130404_P001_WA10	A10	73	2320	Aiphanes weberbaueri	H.Balslev 7769	50	1.81
+1	GOT_130404_P001_WA11	A11	81	1177	Asterogyne guianensis	J. Roncal 406	50	1.77
+1	GOT_130404_P001_WA12	A12	89	1113	Asterogyne ramosa	Private collection	50	1.79
+1	GOT_130404_P001_WB01	B1	2	3415	Astrocaryum chambira	T. Emilio 864	50	1.82
+1	GOT_130404_P001_WB02	B2	10	2045	Astrocaryum faranae	H. Balslev 7897	50	1.81
+1	GOT_130404_P001_WB03	B3	18	3160	Astrocaryum huaimi	T.P.L. Couvreur 289	50	1.76
+1	GOT_130404_P001_WB04	B4	26	1831	Astrocaryum jauari	H. Balslev 7347	50	1.76
+1	GOT_130404_P001_WB05	B5	34	3091	Mauritiella pumila	R. Bernal 4373	50	No DNA left to Quantify
+1	GOT_130404_P001_WB06	B6	42	3164	Astrocaryum minus	De Granville, J.-J. 14511	50	1.87
+1	GOT_130404_P001_WB07	B7	50	1070	Astrocaryum paramaca	J.C.Pintaud 901	50	1.84
+1	GOT_130404_P001_WB08	B8	58	3166	Astrocaryum sciophilum	B. Maguire 54126	50	No DNA left to Quantify
+1	GOT_130404_P001_WB09	B9	66	266	Astrocaryum urostachys	F. Borchsenius, no voucher	47.6	No DNA left to Quantify
+1	GOT_130404_P001_WB10	B10	74	3168	Astrocaryum vulgare	M.J. Balic 1626	50	1.51
+1	GOT_130404_P001_WB11	B11	82	3172	Attalea funifera	L.A. Matos Silva 747	50	1.89
+1	GOT_130404_P001_WB12	B12	90	1756	Attalea racemosa	H. Balslev 7272	50	1.85
+1	GOT_130404_P001_WC01	C1	3	3384	Bactris acanthocarpoides	T. Emilio 831	50	1.81
+1	GOT_130404_P001_WC02	C2	11	546	Bactris aubletiana	ENV 1593	50	1.88
+1	GOT_130404_P001_WC03	C3	19	2718	Bactris balanophora	R. Bernal 4417	50	1.39
+1	GOT_130404_P001_WC04	C4	27	685	Bactris bifida	H. Balslev 6594	50	1.85
+1	GOT_130404_P001_WC05	C5	35	543	Bactris campestris	J.C. Pintaud 1448	50	1.84
+1	GOT_130404_P001_WC06	C6	43	3177	Bactris chaveziae	T.L.P. Couvreur 279	50	1.63
+1	GOT_130404_P001_WC07	C7	51	3179	Bactris constanciae	De Granville 4850	40.2	No DNA left to Quantify
+1	GOT_130404_P001_WC08	C8	59	1778	Bactris corossilla	H. Balslev 7294	50	NO DNA left to Quantify
+1	GOT_130404_P001_WC09	C9	67	544	Bactris gastoniana	J.C.Pintaud 1446	45.8	NO DNA left to Quantify
+1	GOT_130404_P001_WC10	C10	75	3540	Bactris guineensis	JBP s.n.	50	1.86
+1	GOT_130404_P001_WC11	C11	83	1751	Bactris halmoorei	H. Balslev 7267	50	1.87
+1	GOT_130404_P001_WC12	C12	91	554	Bactris killipii	J.C.Pintaud 1428	50	1.85
+1	GOT_130404_P001_WD01	D1	4	1080	Bactris longiseta	J.C.Pintaud 330	50	1.59
+1	GOT_130404_P001_WD02	D2	12	293	Bactris maraja	H. Balslev 6565	50	2.08
+1	GOT_130404_P001_WD03	D3	20	309	Bactris martiana	H. Balslev 6549	50	1.81
+1	GOT_130404_P001_WD04	D4	28	3261	Bactris oligocarpa	T. Emilio 528	50	1.84
+1	GOT_130404_P001_WD05	D5	36	548	Bactris pliniana	J.C.Pintaud 1452	50	1.81
+1	GOT_130404_P001_WD06	D6	44	2096	Bactris riparia	H. Balslev 7953	50	1.80
+1	GOT_130404_P001_WD07	D7	52	1768	Bactris schultesii	H. Balslev 7284	50	1.80
+1	GOT_130404_P001_WD08	D8	60	256	Bactris setiflora	F. Borchsenius 629	50	No DNA left to Quantify
+1	GOT_130404_P001_WD09	D9	68	1954	Bactris simplicifrons	H. Balslev 6780	50	1.75
+1	GOT_130404_P001_WD10	D10	76	3359	Bactris syagroides	T. Emilio 801	50	1.84
+1	GOT_130404_P001_WD11	D11	84	3536	Calyptrogyne baudensis	Samín et al. 05	50	1.87
+1	GOT_130404_P001_WD12	D12	92	1191	Calyptrogyne fortunensis	J. Roncal 370	50	1.90
+1	GOT_130404_P001_WE01	E1	5	1691	Calyptrogyne trichostachys	J. Roncal 414	50	1.87
+1	GOT_130404_P001_WE02	E2	13	1116	Calyptronoma occidentalis	FTG 71375D	50	2.04
+1	GOT_130404_P001_WE03	E3	21	1117	Calyptronoma plumeriana	FTG 82492D	35.8	No DNA left to Quantify
+1	GOT_130404_P001_WE04	E4	29	3535	Ceroxylon peruvianum	Samín et al. 05	50	1.91
+1	GOT_130404_P001_WE05	E5	37	3242	Chamaedorea crucensis	Hod No ID	50	1.85
+1	GOT_130404_P001_WE06	E6	45	3100	Chamaedorea fragrans	J.C. Pintaud 1490	50	1.83
+1	GOT_130404_P001_WE07	E7	53	3571	Desmoncus cirrhifer	R. Bernal 4989	50	1.83
+1	GOT_130404_P001_WE08	E8	61	3573	Desmoncus giganteus	L.A. Nuñez s.n.	50	1.93
+1	GOT_130404_P001_WE09	E9	69	3577	Desmoncus myriacanthos	R. Bernal 4945	50	1.83
+1	GOT_130404_P001_WE10	E10	77	3575	Desmoncus vacivus	MFT 703	50	1.80
+1	GOT_130404_P001_WE11	E11	85	3534	Dictyocaryon ptarianum	Pintaud ENV 1185	50	1.97
+1	GOT_130404_P001_WE12	E12	93	3190	Geonoma aspdiifolia	C. Farney 1752	50	1.92
+1	GOT_130404_P001_WF01	F1	6	3327	Geonoma atrovirens (Chamaedorea)	T. Emilio 761	50	1.92
+1	GOT_130404_P001_WF02	F2	14	3188	Geonoma baculifera	M.J. Jansen-Jacobs 2386	50	1.85
+1	GOT_130404_P001_WF03	F3	22	1356	Geonoma epetiolata	J. Roncal 316	38.4	1.96
+1	GOT_130404_P001_WF04	F4	30	2743	Geonoma euspatha	J.J.Granville 11989	50	1.31
+1	GOT_130404_P001_WF05	F5	38	1121	Geonoma hollinensis	H. Balslev 6418	50	1.67
+1	GOT_130404_P001_WF06	F6	46	1198	Geonoma hugonis	J. Roncal 358	39.0	1.86
+1	GOT_130404_P001_WF07	F7	54	1714	Geonoma lanata	F. Borchsenius 334	50	1.86
+1	GOT_130404_P001_WF08	F8	62	1757	Geonoma laxiflora	H. Balslev 7273	50	1.89
+1	GOT_130404_P001_WF09	F9	70	3283	Geonoma leptospadix	T. Emilio 714	50	2.18
+1	GOT_130404_P001_WF10	F10	78	3584	Geonoma longepedunculata	Gloria Galeano 9186	50	1.88
+1	GOT_130404_P001_WF11	F11	86	1178	Geonoma oldemanii	J. Roncal 403	50	1.72
+1	GOT_130404_P001_WF12	F12	94	3301	Geonoma oligoclona	T. Emilio 731	50	1.70
+1	GOT_130404_P001_WG01	G1	7	1091	Geonoma pinnatifrons	BG 534	50	1.80
+1	GOT_130404_P001_WG02	G2	15	3583	Geonoma poeppigiana	R. Bernal 4621	50	1.85
+1	GOT_130404_P001_WG03	G3	23	2284	Mauritiella armata	R. Bernal 4469	50	No DNA left to Quantify
+1	GOT_130404_P001_WG04	G4	31	3373	Geonoma triglochin	T. Emilio 820	50	1.94
+1	GOT_130404_P001_WG05	G5	39	3343	Geonoma umbraculiformis	T. Emilio 780	50	1.81
+1	GOT_130404_P001_WG06	G6	47	3476	Guiahia argyrata	3757	50	1.82
+1	GOT_130404_P001_WG07	G7	55	3475	Hyospathe frontinensis	R. Bernal 4955	50	1.84
+1	GOT_130404_P001_WG08	G8	63	2282	Iriartella setigera	R. Bernal 4462	50	1.83
+1	GOT_130404_P001_WG09	G9	71	3543	Iriartella stenocarpa	MFT 704	50	1.83
+1	GOT_130404_P001_WG10	G10	79	3482	Juania australis	JCP 1454	43.4	1.88
+1	GOT_130404_P001_WG11	G11	87	2250	Manicaria saccifera	H. Balslev 8114	50	1.86
+1	GOT_130404_P001_WG12	G12	95	3185	Oenocarpus bacaba	M.J. Jansen-Jacobs 2387	50	1.84
+1	GOT_130404_P001_WH01	H1	8	3477	Oenocarpus simplex	Rodrigo Cámara-Leret 1711	50	1.86
+1	GOT_130404_P001_WH02	H2	16	3215	Parajubaea cocoides	Austria 80 **	50	1.79
+1	GOT_130404_P001_WH03	H3	24	3183	Pholidostachys synanthera	T. Couvreur 119	50	No DNA left to Quantify
+1	GOT_130404_P001_WH04	H4	32	3056	Phytelephas tumacana	F.Borchsenius 659	50	1.74
+1	GOT_130404_P001_WH05	H5	40	3182	Prestoea pubigera	A. Henderson 1623	50	1.92
+1	GOT_130404_P001_WH06	H6	48	3251	Pritchardia minor	Kwood 7367	50	1.80
+1	GOT_130404_P001_WH07	H7	56	3250	Pritchardia pericularum	JVM 1 (Niau?)	49.4	1.84
+1	GOT_130404_P001_WH08	H8	64	3252	Pritchardia viscosa	SP Perlman 18712	50	1.84
+1	GOT_130404_P001_WH09	H9	72	3249	Pritchardia vuylstekeana	JVM 2 (Makatea?)	50	1.83
+1	GOT_130404_P001_WH10	H10	80	3216	Sabal antillensis	M.P. Griffith 388	50	1.81
+1	GOT_130404_P001_WH11	H11	88	3193	Sabal gretherae	H. Balslev 8170	50	1.81
+1	GOT_130404_P001_WH12	H12	96	3217	Sabal lougheediana	M.P. Griffith 392	50	1.83
+2	GOT_130404_P002_WA01	A1	1	3192	Sabal minor	M. Eason 1142	50	1.88
+2	GOT_130404_P002_WA02	A2	9	3191	Sabal yapa	H. Balslev 8166	50	1.85
+2	GOT_130404_P002_WA03	A3	17	3102	Schippia concolor	59-1200 D	50	1.66
+2	GOT_130404_P002_WA04	A4	25	3517	Socratea hecatonandra	GG 8119	32.4	1.90
+2	GOT_130404_P002_WA05	A5	33	448	Socratea rostrata	R. Bernal 2493	50	1.92
+2	GOT_130404_P002_WA06	A6	41	1782	Socratea salazarii	H. Balslev 7298	50	1.84
+2	GOT_130404_P002_WA07	A7	49	3189	Syagrus amara	Noblick 5560	50	1.83
+2	GOT_130404_P002_WA08	A8	57	3214	Washingtonia robusta	Austria 81 **	50	1.65
+2	GOT_130404_P002_WA09	A9	65	411	Wettinia aequatorialis	H. Balslev 6462	50	1.84
+2	GOT_130404_P002_WA10	A10	73	413	Wettinia anomala	R. Bernal 2487	50	1.92
+2	GOT_130404_P002_WA11	A11	81	417	Wettinia disticha	R. Bernal 2838	50	1.84
+2	GOT_130404_P002_WA12	A12	89	416	Wettinia castanea	R. Bernal 2825	50	1.80
+2	GOT_130404_P002_WB01	B1	2	3366	Wettinia drudei	T. Emilio 810	50	1.85
+2	GOT_130404_P002_WB02	B2	10	419	Wettinia fascicularis	R. Bernal 2830	50	2.11
+2	GOT_130404_P002_WB03	B3	18	3491	Wettinia hirsuta	R. Bernal 4737	50	1.98
+2	GOT_130404_P002_WB04	B4	26	3464	Wettinia kalbreyeri	R. Bernal 4726	50	1.83
+2	GOT_130404_P002_WB05	B5	34	3441	Wettinia lanata	R. Bernal 4775	50	2.06
+2	GOT_130404_P002_WB06	B6	42	3196	Wettinia longipetala	H. Balslev 6545	50	1.95
+2	GOT_130404_P002_WB07	B7	50	3194	Wettinia maynensis	A. Barford 60538	50	1.24
+2	GOT_130404_P002_WB08	B8	58	427	Wettinia microcarpa	R. Bernal 3481	50	1.82
+2	GOT_130404_P002_WB09	B9	66	428	Wettinia oxycarpa	R. Bernal 2498	50	1.82
+2	GOT_130404_P002_WB10	B10	74	430	Wettinia panamensis	A.J. Henderson 2045	34	1.86
+2	GOT_130404_P002_WB11	B11	82	431	Wettinia praemorsa	R. Bernal 2883	50	1.82
+2	GOT_130404_P002_WB12	B12	90	434	Wettinia quinaria	R. Bernal 2491	50	1.73
+2	GOT_130404_P002_WC01	C1	3	436	Wettinia radiata	R. Bernal 2190	50	1.75
+2	GOT_130404_P002_WC02	C2	11	3514	Wettinia verruculosa	R. Bernal 2500	50	1.90
+2	GOT_130404_P002_WC03	C3	19	2299	Mauritiella armata	J.C.Pintaud 1488	50	2.11
